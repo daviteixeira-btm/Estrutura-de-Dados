@@ -2,6 +2,7 @@
 
 using namespace std;
 
+
 struct Ponto {
     float x;
     float y;
